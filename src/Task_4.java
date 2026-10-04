@@ -19,3 +19,4 @@ public class Task_4 {
         new TreeMap<>(frequency).forEach((word, count) -> System.out.println(word + " -> " + count));
     }
 }
+
