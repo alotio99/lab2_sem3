@@ -5,5 +5,8 @@ public class Main {
 
         System.out.println("\n----- Задание 2. -----");
         Task2_PrimesGeneratorTest.run();
+
+        System.out.println("\n----- Задание 3. -----");
+        Task_3.run();
     }
 }
