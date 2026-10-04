@@ -8,5 +8,11 @@ public class Main {
 
         System.out.println("\n----- Задание 3. -----");
         Task_3.run();
+
+        System.out.println("\n----- Задание 4. -----");
+        Task_4.run();
+
+        System.out.println("\n----- Задание 5. -----");
+        Task_5.run();
     }
 }
